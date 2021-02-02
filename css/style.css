@@ -1375,7 +1375,7 @@ h3 {
 
 @media (max-width: 1854px) {
   body{
-    zoom: 76%;
+    zoom: 76% !important;
   } 
 }
 
